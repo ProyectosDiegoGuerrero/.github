@@ -12,7 +12,7 @@ Algunos de los que puedes encontrar actualmente son:
 * *dEstudio*. Es una aplicación "de alumnos para alumnos", diseñada para compartir apuntes entre compañeros que, posteriormente, creció para introducir también una agenda digital y una plataforma de exámenes de autoevaluación interactivos.
 * *EnglishProgress*. Es una aplicación 100% personal diseñada para seguir mi progreso durante el aprendizaje del idioma inglés.
 
-**Nota**: por favor, si quieres hacer uso de alguno de estos proyectos, contáctame previamente a mi correo electrónico: [diegogcarrasco@icloud.com](mailto:diegogcarrasco@icloud.com). ¡Gracias!
+**Nota**: por favor, si quieres hacer uso de alguno de estos proyectos o comentarme cualquier cuestión sobre ellos, contáctame previamente a mi correo electrónico: [diegogcarrasco@icloud.com](mailto:diegogcarrasco@icloud.com). ¡Gracias!
 
 ---
 
@@ -21,11 +21,11 @@ Hello!
 
 This is my personal space on GitHub. Here is where I work on my personal projects. Mainly, by the moment, I work on my oldest projects —those which I created when I started learning developing— and I update them introducing all the knowledge that I am learning at university and from my own experience.
 
-Feel free to explore and test them!
+Feel free to explore and give them a try!
 
 Some of the projects you can find here are:
 * *dEduca*. It is a educational platform which is planned for being used at Secondary and Baccalaureate educative levels in Spain (equivalent to Middle School and High School). It is designed to be used with a Laravel *backend* and an Angular *frontend* and it is based on a *Vanilla PHP* version developed in 2014.
 * *dEstudio*. It is a "from students to students" application that was designed for note-sharing among classmates that, subsequently, grew up and introduced a digital agenda and a interactive exams platform.
 * *EnglishProgress*. It is a 100%-customized application designed for tracking my progress on English learning process.
 
-**Note**: please, if you want to use any of this projects, contact me at my e-mail address previously: [diegogcarrasco@icloud.com](mailto:diegogcarrasco@icloud.com). Thank you!
+**Note**: please, if you want to use any of this projects or you want to talk to me about anything related to them, please contact me at my e-mail address previously: [diegogcarrasco@icloud.com](mailto:diegogcarrasco@icloud.com). Thank you!
